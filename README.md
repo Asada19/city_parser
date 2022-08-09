@@ -1,6 +1,6 @@
 How to use
 
-# clone this repository
+# Clone this repository
 
 $ git clone https://github.com/Asada19/city_parser.git
 
